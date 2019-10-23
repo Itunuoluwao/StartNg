@@ -113,9 +113,9 @@
         <div class="row">
             <div class="sidebar col-lg-2">
                 <a class="active" href="#home">Dashboard</a>
-                <a href="Profile.html">Profile Settings</a>
-                <a href="contact.html">Contact Settings</a>
-                <a href="signin.html">Log Out</a>
+                <a href="Profile.php">Profile Settings</a>
+                <a href="index.php">Contact Settings</a>
+                <a href="signin.php">Log Out</a>
             </div>
 
             <div class="page-content col-lg-10  d-flex justify-content-center">
