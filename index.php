@@ -121,7 +121,7 @@
         <div class="row">
             <div class="sidebar col-lg-2">
                 <a class="active" href="#home">Dashboard</a>
-                <a href="profile.php">Profile Settings</a>
+                <a href="startngcontacts.php">Profile Settings</a>
                 <a href="index.php">Contact Settings</a>
                 <a href="signin.php">Log Out</a>
             </div>
@@ -129,7 +129,7 @@
             <div class="page-content col-lg-10  d-flex justify-content-center">
                 <div class="col-sm-9">
                     <div class="p-5">
-                        <h2>Want to add more than one Contacts at a time? <a href="importcontact.php">Import Contacts</a></h2>
+                        <h2>Want to add more than one Contacts at a time? <a href="startngcontacts.php">Import Contacts</a></h2>
                         <hr>
                     </div>
 
