@@ -162,7 +162,7 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-md-6">
-                <h4 class="mb-4 mt-3">Catchup on Startng Latest News</h4>
+                <h4 class="mb-4 mt-3">Catch up on Startng Latest News</h4>
                 <p> Visit our <a href="blog1.html" style="color: #44CF6C">Blog</a> for more update</p>
             </div>
             <div class="col-md-6 mb-3">
