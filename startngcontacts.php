@@ -13,6 +13,7 @@
     <style>
         body {
             font-family: Nunito;
+            
         }
         /* Style for Navbar Starts */
         
@@ -142,7 +143,7 @@
                    
                     
                     <li class="nav-item mr-5">
-                        <a class="btn btn-success nav-link px-5" href="startngcontacts.html" style="color: #fff;">Admin
+                        <a class="btn btn-success nav-link px-5" href="/admin" style="color: #fff;">Admin
                             Login</a>
                     </li>
                 </ul>
@@ -155,41 +156,33 @@
             <h4 class="pt-5 mt-5 pb-4" style="color: #fff; font-style: normal; font-weight: 600; font-size: 35px; line-height: 27px;">Welcome to StartNG Contacts</h4>
             <p class="pb-3" style="color: #fff; font-style: normal; font-weight: 400; font-size: 16px; line-height: 27px;">
             </p>
-            <a href="startngcontacts.html" class="btn btn-success pl-5 pr-5 mb-4">Admin Login</a>
+            <a href="/admin" class="btn btn-success pl-5 pr-5 mb-4">Admin Login</a>
         </div>
     </div>
 
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-md-6">
-                <h4 class="mb-4 mt-3">Catchup on Startng Career Opportunities</h4>
-                <p> For the latest career news <br> Checkout <a href="" style="color: #44CF6C">StartNg Careers</a></p>
-            </div>
-            <div class="col-md-6 mb-3">
-                <img src="https://res.cloudinary.com/sgnolebagabriel/image/upload/v1570926879/startng/Group_144_qgkkfx.png" class="img-fluid">
-            </div>
-        </div>
-    </div>
-
-    <div class="container-fluid pt-5 pb-5" style="background-color: rgba(42, 43, 42, 0.05);">
-        <div class="container pt-5 pb-5">
+    <div class="container-fluid pt-5 mt-5 mb-5 pb-5">
             <div class="row align-items-center">
-                <div class="col-md-8 pb-5">
-                    <h4 style="font-weight: bold; font-size: 40px;">Subscribe to our Newsletter</h4>
-                    <p style="font-size: 20px;">Stay Updated with our latest news, discount and promotions
-                    </p>
-                    <form class="form-inline">
-                        <input type="text" class="form-control col-md-8" id="email">
-                        <button type="submit" class="btn btn-primary ml-1 pl-5 pr-5" style="background-color: #44CF6C; border-color: #44CF6C;">Subscribe</button>
-                    </form>
+                <div class="col-md-6 pb-5">
+                    <h3 class="pl-5" style="color: #7F5A83;"> 3 Tips for Successful Email Campaign</h3>
+                    
+                    <p class="pl-5">Whether you are sending updates to interns or briefings to mentors , here are three tips for successfully email campaigns..</p>
+                   
+                    <br> 
+                    <ul class="pl-5 ml-3">
+                        <li style="color: #44CF6C;">Keep it private</li>
+                        <p>Entering your contacts should be the last thing you do when setting up an email to avoid any blunders of sendig to the wrong contacts</p>
+                        <li style="color: #44CF6C;">Easy does It</li>
+                        <p>Content matters, make your words simple and your images less heavy.</p>
+                        <li style="color: #44CF6C;">Check spam risk before you hit send</li>
+                        <p>To avoid a high spam risk, make sure you limit the use of promotional words </p>
+                    </ul>
+                    <a class="btn btn-success ml-5 pl-5 pr-5" href="/admin">Admin Login</a>
                 </div>
-                <div class="col-md-4">
-                    <img class="img-fluid" src="https://res.cloudinary.com/sgnolebagabriel/image/upload/v1570931071/startng/newsletter_1_h3frhq.png">
+                <div class="col-md-6">
+                    <img src="images/startngcontact.jpg" class=".img-fluid.height:1000px;">
                 </div>
             </div>
         </div>
-    </div>
-
     <!-- Footer -->
     <div class="container-fluid text-white deep">
         <footer>
