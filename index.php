@@ -121,7 +121,7 @@
         <div class="row">
             <div class="sidebar col-lg-2">
                 <a class="active" href="#home">Dashboard</a>
-                <a href="Profile.php">Profile Settings</a>
+                <a href="profile.php">Profile Settings</a>
                 <a href="index.php">Contact Settings</a>
                 <a href="signin.index">Log Out</a>
             </div>
