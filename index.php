@@ -129,7 +129,7 @@
             <div class="page-content col-lg-10  d-flex justify-content-center">
                 <div class="col-sm-9">
                     <div class="p-5">
-                        <h2>Want to add more than one Contacts at a time? <a href="importcontact.html">Import Contacts</a></h2>
+                        <h2>Want to add more than one Contacts at a time? <a href="importcontact.php">Import Contacts</a></h2>
                         <hr>
                     </div>
 
